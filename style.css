@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(208, 208, 208);
+}
+
+.fa{
+    color: rgb(93, 93, 239);
+}
+
+.text{
+    margin: 20px 5px;
+}
+
+a{
+    
+    border-bottom: 1px solid blue ;
+}
+.box-inside{
+    background-color: white;
+    text-align: center;
+    padding: 50px 5px;
+    margin: 30px 5px;
+
+}
+
+
+.box{
+    padding: 60px 5px;
+}
